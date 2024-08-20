@@ -9,7 +9,6 @@ Bankist is a simple banking application that allows users to manage their financ
 3. [Installation](#installation)
 4. [How to Use](#how-to-use)
 5. [Acknowledgments](#acknowledgments)
-6. [License](#license)
 
 ## Description
 
@@ -40,4 +39,3 @@ Bankist allows users to log in with their credentials and perform various bankin
 ## Acknowledgments
 
 - This project is based on the course: [The Complete JavaScript Course 2024: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=SKILLS4SALEA).
-3. 
