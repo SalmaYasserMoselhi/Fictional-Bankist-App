@@ -43,6 +43,7 @@ Bankist allows users to log in with their credentials and perform various bankin
    ```bash
    live-server
    ```
+## How to Use
 
 1. **Log In**: Enter your username and PIN to access your account.
 2. **Transfer Money**: Input the recipient's username and the amount to transfer, then confirm the transaction.
