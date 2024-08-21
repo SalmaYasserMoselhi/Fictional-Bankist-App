@@ -24,11 +24,25 @@ Bankist allows users to log in with their credentials and perform various bankin
 - Automatic logout timer
 
 ## Installation
+1. **Clone the repository:**
 
-1. **Clone the Repository**: Download or clone the repository from GitHub using the URL [https://github.com/SalmaYasserMoselhi/Fictional-Bankist-App](https://github.com/SalmaYasserMoselhi/Fictional-Bankist-App).
+   ```bash
+   git clone https://github.com/SalmaYasserMoselhi/Fictional-Bankist-App
+   ```
 
-2. **Open the Project**: Navigate to the project directory and open `index.html` in your web browser to start using the app.
-## How to Use
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd fictional-bankist-app
+   ```
+
+3. **Open `index.html` in your browser:**
+
+   You can simply double-click the `index.html` file to open it in your default web browser, or you can serve the project using a local server like `live-server`:
+
+   ```bash
+   live-server
+   ```
 
 1. **Log In**: Enter your username and PIN to access your account.
 2. **Transfer Money**: Input the recipient's username and the amount to transfer, then confirm the transaction.
